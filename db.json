@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "posts":
     {
       "token_type": "Bearer",
       "access_token": "eGUzODQwMiMyOS8wOS8yMDE0IDE2OjIxOjMx",
       "refresh_token": "seghHOQDRGdddBFYsdsdUWENOIJOKNOKHOI"
     }
-  ],
+  ,
   "profile": {
     "name": "typicode"
   }
